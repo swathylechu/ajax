@@ -1,0 +1,45 @@
+{ 
+    "things to buy":[ 
+                     {
+                      "sl.no":"1",
+                       "item":"sugar",
+                       "quantity":"3kg",
+                       "notes":"parrys brand"
+    
+},
+{
+    "sl.no":"2",
+    "item":"tea powder",
+    "quantity":"1kg",
+    "notes":"Tajmahal"
+},
+
+{
+    "sl.no":"3",
+    "item":"eggs",
+    "quantity":"20 no.s",
+    "notes":"naadan egg"
+},
+
+{
+    "sl.no":"4",
+    "item":"milk",
+    "quantity":"4 pkt",
+    "notes":"goodlife"
+},
+
+{
+    "sl.no":"5",
+    "item":"biscuits",
+    "quantity":"3 pkts",
+    "notes":"goodday, unibic,horlicks"
+},
+
+{
+    "sl.no":"6",
+    "item":"complan",
+    "quantity":"1kg",
+    "notes":"royalchocolate"
+}
+]
+}
